@@ -1,7 +1,5 @@
-# Power-Bi
 Data Analysis and Visualization using Power View and Power Query
 This project focuses on exploring the capabilities of Power View and Power Query in Microsoft Excel for data analysis and visualization. It also includes a visualization of the results of a machine learning algorithm using Power BI.
-
 Table of Contents
 Employee Data Analysis
 Data Preparation
@@ -39,5 +37,4 @@ Import the machine learning results into Power BI.
 Create visualizations to represent the key findings and performance metrics of the machine learning model.
 Analyze the visualizations to gain insights into the model's performance and interpretability.
 This project aims to demonstrate the power of Power View and Power Query in Excel for data analysis and visualization, as well as the integration of machine learning results with Power BI for visual exploration and interpretation.
-
 Feel free to explore the code, datasets, and visualizations provided in this repository.
